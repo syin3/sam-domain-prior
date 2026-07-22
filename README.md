@@ -1,7 +1,5 @@
 # sam-domain-prior
 
-## Third-Party Software Notices
-
 This repository includes or builds upon the following open-source projects.
 
 ### Segment Anything
