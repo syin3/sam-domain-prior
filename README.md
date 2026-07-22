@@ -1,6 +1,6 @@
 # sam-domain-prior
 
-This repository includes or builds upon the following open-source projects.
+This repository builds upon the following open-source projects. To replicate the results, also need to install `mmsegmentation` separately.
 
 ### Segment Anything
 
